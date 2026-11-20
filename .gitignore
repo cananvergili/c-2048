@@ -1,0 +1,22 @@
+# Compiled binaries and objects
+2048
+2048.exe
+test_game
+test_game.exe
+*.o
+*.obj
+*.pdb
+*.ilk
+*.exe
+*.out
+
+# Local high score & temporary files
+.2048_highscore
+.test_2048_score.tmp
+
+# Editor / IDE files
+.vscode/
+.vs/
+.idea/
+*.swp
+.DS_Store
